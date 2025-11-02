@@ -21,7 +21,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot Configuration
-BOT_TOKEN = "8102196274:AAGwIogEbF9bmQSlTWK1NrLW0pmNu81CwkM"
+BOT_TOKEN = "8311986611:AAH-MAElwy6B8hfIexjavVyjjcmHE7moSMk"
 PHONE_API_URL = "https://demon.taitanx.workers.dev/?mobile="
 AADHAAR_API_URL = "https://family-members-n5um.vercel.app/fetch"
 
