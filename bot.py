@@ -48,7 +48,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot Configuration
-BOT_TOKEN = "8311986611:AAHPRPGDvypdpoEKYQ5Q3cFBznLtnM8cbZQ"
+BOT_TOKEN = "8401166496:AAGt5nHdc2Rf9x71H4X5fwB7tMS4TPSN_sk"
 ADMIN_ID = 5840922366  # Your admin user ID
 
 # API Endpoints
